@@ -1,0 +1,4 @@
+power
+Enter your choice: 5
+Enter two numbers: 3 2
+Result = 9.00

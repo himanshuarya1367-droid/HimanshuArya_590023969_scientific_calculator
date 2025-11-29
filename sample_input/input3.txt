@@ -1,0 +1,4 @@
+sine
+Enter your choice: 7
+Enter angle in radians: 1.57
+sin(1.57) = 1.0000

@@ -1,0 +1,4 @@
+Multiplication
+Enter your choice: 3
+Enter two numbers: 6 5
+Result = 30.00
