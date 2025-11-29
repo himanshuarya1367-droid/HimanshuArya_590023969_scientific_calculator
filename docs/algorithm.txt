@@ -1,0 +1,30 @@
+#ifndef CALCULATOR_H
+#define CALCULATOR_H
+
+#define ADD        1
+#define SUBTRACT   2
+#define MULTIPLY   3
+#define DIVIDE     4
+#define POWER      5
+#define SQRT       6
+#define SINE       7
+#define COSINE     8
+#define TANGENT    9
+#define LOG_NAT   10
+#define LOG_10    11
+
+double add(double a, double b);
+double subtract(double a, double b);
+double multiply(double a, double b);
+double divide(double a, double b);
+double power(double base, double exp);
+double square_root(double x);
+double sine(double x);
+double cosine(double x);
+double tangent(double x);
+double log_natural(double x);
+double log_base10(double x);
+
+void print_menu(void);
+
+#endif  
